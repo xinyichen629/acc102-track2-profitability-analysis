@@ -1,0 +1,11 @@
+Ticker,Company,Sector,Industry,Exchange,Year,Revenue_B,Net_Income_B,Equity_B,Assets_B,Net_Profit_Margin,ROE
+AAPL,Apple Inc.,Electronic Computers,Electronic Computers,Nasdaq,2019,260.17,55.26,90.49,338.52,21.24,61.06
+AAPL,Apple Inc.,Electronic Computers,Electronic Computers,Nasdaq,2020,274.51,57.41,65.34,323.89,20.91,87.87
+AAPL,Apple Inc.,Electronic Computers,Electronic Computers,Nasdaq,2021,365.82,94.68,63.09,351.0,25.88,150.07
+AAPL,Apple Inc.,Electronic Computers,Electronic Computers,Nasdaq,2022,394.33,99.8,50.67,352.75,25.31,196.96
+AAPL,Apple Inc.,Electronic Computers,Electronic Computers,Nasdaq,2023,383.29,97.0,62.15,352.58,25.31,156.08
+MSFT,MICROSOFT CORP,Services-Prepackaged Software,Services-Prepackaged Software,Nasdaq,2019,125.84,39.24,102.33,286.56,31.18,38.35
+MSFT,MICROSOFT CORP,Services-Prepackaged Software,Services-Prepackaged Software,Nasdaq,2020,143.01,44.28,118.3,301.31,30.96,37.43
+MSFT,MICROSOFT CORP,Services-Prepackaged Software,Services-Prepackaged Software,Nasdaq,2021,168.09,61.27,141.99,333.78,36.45,43.15
+MSFT,MICROSOFT CORP,Services-Prepackaged Software,Services-Prepackaged Software,Nasdaq,2022,198.27,72.74,166.54,364.84,36.69,43.68
+MSFT,MICROSOFT CORP,Services-Prepackaged Software,Services-Prepackaged Software,Nasdaq,2023,211.91,72.36,206.22,411.98,34.15,35.09

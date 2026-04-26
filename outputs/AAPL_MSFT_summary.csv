@@ -1,0 +1,3 @@
+Ticker,Company,Sector,Industry,Exchange,Years,Mean_Revenue_B,Mean_Net_Income_B,Mean_Equity_B,Mean_NPM,Std_NPM,Mean_ROE,Std_ROE,Revenue_CAGR,NPM_Stability,ROE_Stability,Composite_Stability
+AAPL,Apple Inc.,Electronic Computers,Electronic Computers,Nasdaq,5,335.62,80.83,66.35,23.73,2.44,130.41,54.99,10.17,9.73,2.37,6.05
+MSFT,MICROSOFT CORP,Services-Prepackaged Software,Services-Prepackaged Software,Nasdaq,5,169.42,57.98,147.08,33.89,2.76,39.54,3.74,13.92,10.0,10.0,10.0
